@@ -1,0 +1,20 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaharchenko-test/js.git"
+  },
+  "keywords": [],
+  "author": "Zaharchenko Evgen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaharchenko-test/js/issues"
+  },
+  "homepage": "https://github.com/zaharchenko-test/js#readme"
+}
